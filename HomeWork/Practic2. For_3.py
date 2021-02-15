@@ -13,7 +13,6 @@ mid_scores_class = 0
 for mid_scores in all_marks:
     mid_scores_scholl += sum(mid_scores['scores'])/len(mid_scores['scores']) # Расчет среднего бала по школе
     mid_scores_class = sum(mid_scores['scores'])//len(mid_scores['scores'])  # Расчет среднего бала по каждому классу
-    school_class = mid_scores['school_class']
-    print(f'Средний бал класса {school_class} составялет {mid_scores_class}')
+    print(f'Средний бал класса {mid_scores["school_class"]} составялет {mid_scores_class}')
 
 print(f'Средний бал по школе составляет {mid_scores_scholl/len(all_marks)}')
