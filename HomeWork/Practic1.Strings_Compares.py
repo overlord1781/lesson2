@@ -9,7 +9,7 @@
 '''
 
 def strings_compares(string1 , string2):
-    if not isinstance(string1,str) and not isinstance(string2,str):
+    if not isinstance(string1,str) or not isinstance(string2,str):
         return 0
     elif string1 == string2:
         return 1
@@ -18,7 +18,7 @@ def strings_compares(string1 , string2):
     elif string1 != string2 and string2 == 'learn':
         return 3
 
-print(strings_compares(1,2)) # Передача цифр (не строк)
+print(strings_compares(1,'ssdsd')) # Передача цифр (не строк)
 print(strings_compares('одинаковые строки','одинаковые строки')) # Одинаковые строки
 print(strings_compares('длиная строка','короткая')) # Передача 1 строка длинее 2
 print(strings_compares('длиная строка','learn')) # Передача 1 строка длинее 2 
