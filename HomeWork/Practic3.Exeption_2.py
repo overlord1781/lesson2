@@ -7,7 +7,7 @@
 def discounted2(price , discount, max_discount=20):
     '''
     discounted2(price , discount, max_discount=20)
-    при некооректно вводе даных функция вернет -1
+    при некооректно вводе даных функция вернет 'errore'
     '''
     try:
         price = abs(float(price))
@@ -21,11 +21,12 @@ def discounted2(price , discount, max_discount=20):
             return price -(price*discount/100)
     except (ValueError, TypeError):
         print('Случилась беда!!!!!!!')
-        return -1
-'''
+        return 'errore'
+
 print(discounted2('ssdsd',15,20))
 print(discounted2('500',15,20.4))
 print(discounted2('ssdsd',15,20))
-'''
+print(discounted2('2500',15,20))
 
+print('\n')
 help(discounted2)

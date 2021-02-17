@@ -1,8 +1,8 @@
 print('\n')
 ###############
-balance = -10
+balance = 10
 
-print(bool(balance<0))
+print((balance<0))
 
 if balance < 0:
     print('пополните баланс')

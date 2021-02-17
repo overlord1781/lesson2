@@ -9,6 +9,6 @@ def hello_user():
             if a == 'Хорошо':
                 break
     except KeyboardInterrupt:
-        print('\n был нажат ctrl+c или ctrl+z')
+        print('\n был нажат ctrl+c')
 
 hello_user()

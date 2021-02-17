@@ -1,0 +1,224 @@
+02/17/2021 09:47:16 PM бот запустился
+02/17/2021 09:47:16 PM Scheduler started
+02/17/2021 09:47:43 PM Received signal 2 (SIGINT), stopping...
+02/17/2021 09:47:43 PM Scheduler has been shut down
+02/17/2021 09:47:44 PM Exiting immediately!
+02/17/2021 09:47:46 PM бот запустился
+02/17/2021 09:47:46 PM Scheduler started
+02/17/2021 09:47:54 PM Received signal 2 (SIGINT), stopping...
+02/17/2021 09:47:54 PM Scheduler has been shut down
+02/17/2021 09:47:54 PM Exiting immediately!
+02/17/2021 09:56:03 PM бот запустился
+02/17/2021 09:56:03 PM Scheduler started
+02/17/2021 09:56:18 PM Received signal 2 (SIGINT), stopping...
+02/17/2021 09:56:18 PM Scheduler has been shut down
+02/17/2021 09:56:18 PM Exiting immediately!
+02/17/2021 09:59:36 PM бот запустился
+02/17/2021 09:59:36 PM Scheduler started
+02/17/2021 09:59:38 PM No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\Mark\AppData\Roaming\Python\Python38\site-packages\telegram\ext\dispatcher.py", line 442, in process_update
+    handler.handle_update(update, self, check, context)
+  File "C:\Users\Mark\AppData\Roaming\Python\Python38\site-packages\telegram\ext\handler.py", line 160, in handle_update
+    return self.callback(update, context)
+  File "c:/projects/lesson2/HomeWork/TelegramBot/bot.py", line 27, in answer_constellation
+    update.message.replay_text(name_planet)
+AttributeError: 'Message' object has no attribute 'replay_text'
+02/17/2021 09:59:59 PM Received signal 2 (SIGINT), stopping...
+02/17/2021 09:59:59 PM Scheduler has been shut down
+02/17/2021 10:00:05 PM Exiting immediately!
+02/17/2021 10:41:19 PM бот запустился
+02/17/2021 10:41:19 PM Scheduler started
+02/17/2021 10:43:40 PM Received signal 2 (SIGINT), stopping...
+02/17/2021 10:43:40 PM Scheduler has been shut down
+02/17/2021 10:43:43 PM бот запустился
+02/17/2021 10:43:43 PM Scheduler started
+02/17/2021 10:44:04 PM Received signal 2 (SIGINT), stopping...
+02/17/2021 10:44:04 PM Scheduler has been shut down
+02/17/2021 10:46:23 PM бот запустился
+02/17/2021 10:46:23 PM Scheduler started
+02/17/2021 10:51:59 PM Received signal 2 (SIGINT), stopping...
+02/17/2021 10:51:59 PM Scheduler has been shut down
+02/17/2021 10:51:59 PM Exiting immediately!
+02/17/2021 11:16:01 PM бот запустился
+02/17/2021 11:16:01 PM Scheduler started
+02/17/2021 11:16:42 PM Received signal 2 (SIGINT), stopping...
+02/17/2021 11:16:42 PM Scheduler has been shut down
+02/17/2021 11:16:48 PM Exiting immediately!
+02/17/2021 11:17:06 PM бот запустился
+02/17/2021 11:17:06 PM Scheduler started
+02/17/2021 11:17:17 PM Received signal 2 (SIGINT), stopping...
+02/17/2021 11:17:17 PM Scheduler has been shut down
+02/17/2021 11:17:17 PM Exiting immediately!
+02/17/2021 11:18:41 PM бот запустился
+02/17/2021 11:18:41 PM Scheduler started
+02/17/2021 11:18:51 PM Received signal 2 (SIGINT), stopping...
+02/17/2021 11:18:51 PM Scheduler has been shut down
+02/17/2021 11:18:51 PM Exiting immediately!
+02/17/2021 11:18:59 PM бот запустился
+02/17/2021 11:18:59 PM Scheduler started
+02/17/2021 11:19:17 PM Received signal 2 (SIGINT), stopping...
+02/17/2021 11:19:17 PM Scheduler has been shut down
+02/17/2021 11:19:17 PM Exiting immediately!
+02/17/2021 11:43:34 PM бот запустился
+02/17/2021 11:43:34 PM Scheduler started
+02/17/2021 11:44:24 PM Received signal 2 (SIGINT), stopping...
+02/17/2021 11:44:24 PM Scheduler has been shut down
+02/17/2021 11:44:24 PM Exiting immediately!
+02/17/2021 11:44:26 PM бот запустился
+02/17/2021 11:44:26 PM Scheduler started
+02/17/2021 11:50:06 PM Received signal 2 (SIGINT), stopping...
+02/17/2021 11:50:06 PM Scheduler has been shut down
+02/17/2021 11:50:06 PM Exiting immediately!
+02/17/2021 11:50:09 PM бот запустился
+02/17/2021 11:50:09 PM Scheduler started
+02/17/2021 11:51:19 PM Received signal 2 (SIGINT), stopping...
+02/17/2021 11:51:19 PM Scheduler has been shut down
+02/17/2021 11:51:22 PM Exiting immediately!
+02/17/2021 11:59:57 PM бот запустился
+02/17/2021 11:59:57 PM Scheduler started
+02/18/2021 12:00:11 AM Received signal 2 (SIGINT), stopping...
+02/18/2021 12:00:11 AM Scheduler has been shut down
+02/18/2021 12:00:11 AM Exiting immediately!
+02/18/2021 12:00:15 AM бот запустился
+02/18/2021 12:00:15 AM Scheduler started
+02/18/2021 12:00:28 AM Received signal 2 (SIGINT), stopping...
+02/18/2021 12:00:28 AM Scheduler has been shut down
+02/18/2021 12:00:28 AM Exiting immediately!
+02/18/2021 12:01:06 AM бот запустился
+02/18/2021 12:01:06 AM Scheduler started
+02/18/2021 12:01:20 AM Received signal 2 (SIGINT), stopping...
+02/18/2021 12:01:20 AM Scheduler has been shut down
+02/18/2021 12:01:24 AM Exiting immediately!
+02/18/2021 12:02:06 AM бот запустился
+02/18/2021 12:02:06 AM Scheduler started
+02/18/2021 12:02:27 AM Received signal 2 (SIGINT), stopping...
+02/18/2021 12:02:27 AM Scheduler has been shut down
+02/18/2021 12:02:27 AM Exiting immediately!
+02/18/2021 12:02:59 AM бот запустился
+02/18/2021 12:02:59 AM Scheduler started
+02/18/2021 12:03:04 AM No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\Mark\AppData\Roaming\Python\Python38\site-packages\telegram\ext\dispatcher.py", line 442, in process_update
+    handler.handle_update(update, self, check, context)
+  File "C:\Users\Mark\AppData\Roaming\Python\Python38\site-packages\telegram\ext\handler.py", line 160, in handle_update
+    return self.callback(update, context)
+  File "c:/projects/lesson2/HomeWork/TelegramBot/bot.py", line 40, in answer_constellation
+    update.message.reply_text(ephem.constellation(planet))
+ValueError: the sequence specifying a position must have exactly two coordinates
+02/18/2021 12:03:25 AM Received signal 2 (SIGINT), stopping...
+02/18/2021 12:03:25 AM Scheduler has been shut down
+02/18/2021 12:03:34 AM Exiting immediately!
+02/18/2021 12:41:14 AM бот запустился
+02/18/2021 12:41:14 AM Scheduler started
+02/18/2021 12:41:29 AM No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\Mark\AppData\Roaming\Python\Python38\site-packages\telegram\ext\dispatcher.py", line 442, in process_update
+    handler.handle_update(update, self, check, context)
+  File "C:\Users\Mark\AppData\Roaming\Python\Python38\site-packages\telegram\ext\handler.py", line 160, in handle_update
+    return self.callback(update, context)
+  File "c:/projects/lesson2/HomeWork/TelegramBot/bot.py", line 40, in answer_constellation
+    update.message.reply_text(ephem.constellation(ephem.Mercury))
+TypeError: you must specify a position by providing either a body or a sequence of two numeric coordinates
+02/18/2021 12:42:16 AM Received signal 2 (SIGINT), stopping...
+02/18/2021 12:42:16 AM Scheduler has been shut down
+02/18/2021 12:42:16 AM Exiting immediately!
+02/18/2021 12:42:19 AM бот запустился
+02/18/2021 12:42:19 AM Scheduler started
+02/18/2021 12:42:23 AM No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\Mark\AppData\Roaming\Python\Python38\site-packages\telegram\ext\dispatcher.py", line 442, in process_update
+    handler.handle_update(update, self, check, context)
+  File "C:\Users\Mark\AppData\Roaming\Python\Python38\site-packages\telegram\ext\handler.py", line 160, in handle_update
+    return self.callback(update, context)
+  File "c:/projects/lesson2/HomeWork/TelegramBot/bot.py", line 40, in answer_constellation
+    update.message.reply_text(ephem.constellation(ephem.Mercury))
+TypeError: you must specify a position by providing either a body or a sequence of two numeric coordinates
+02/18/2021 12:42:52 AM Received signal 2 (SIGINT), stopping...
+02/18/2021 12:42:52 AM Scheduler has been shut down
+02/18/2021 12:42:52 AM Exiting immediately!
+02/18/2021 12:43:55 AM бот запустился
+02/18/2021 12:43:55 AM Scheduler started
+02/18/2021 12:44:00 AM No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\Mark\AppData\Roaming\Python\Python38\site-packages\telegram\ext\dispatcher.py", line 442, in process_update
+    handler.handle_update(update, self, check, context)
+  File "C:\Users\Mark\AppData\Roaming\Python\Python38\site-packages\telegram\ext\handler.py", line 160, in handle_update
+    return self.callback(update, context)
+  File "c:/projects/lesson2/HomeWork/TelegramBot/bot.py", line 38, in answer_constellation
+    today = datetime.date()
+TypeError: function missing required argument 'year' (pos 1)
+02/18/2021 12:44:17 AM Received signal 2 (SIGINT), stopping...
+02/18/2021 12:44:17 AM Scheduler has been shut down
+02/18/2021 12:44:17 AM Exiting immediately!
+02/18/2021 12:52:23 AM бот запустился
+02/18/2021 12:52:23 AM Scheduler started
+02/18/2021 12:53:02 AM Received signal 2 (SIGINT), stopping...
+02/18/2021 12:53:02 AM Scheduler has been shut down
+02/18/2021 12:53:02 AM Exiting immediately!
+02/18/2021 12:53:04 AM бот запустился
+02/18/2021 12:53:04 AM Scheduler started
+02/18/2021 12:53:09 AM No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\Mark\AppData\Roaming\Python\Python38\site-packages\telegram\ext\dispatcher.py", line 442, in process_update
+    handler.handle_update(update, self, check, context)
+  File "C:\Users\Mark\AppData\Roaming\Python\Python38\site-packages\telegram\ext\handler.py", line 160, in handle_update
+    return self.callback(update, context)
+  File "c:/projects/lesson2/HomeWork/TelegramBot/bot.py", line 38, in answer_constellation
+    update.message.reply_text(ephem.constellation(ephem.Mercury(today)[1]))
+TypeError: 'Mercury' object is not subscriptable
+02/18/2021 12:53:24 AM Received signal 2 (SIGINT), stopping...
+02/18/2021 12:53:24 AM Scheduler has been shut down
+02/18/2021 12:53:24 AM Exiting immediately!
+02/18/2021 12:54:46 AM бот запустился
+02/18/2021 12:54:46 AM Scheduler started
+02/18/2021 12:54:57 AM Received signal 2 (SIGINT), stopping...
+02/18/2021 12:54:57 AM Scheduler has been shut down
+02/18/2021 12:54:57 AM Exiting immediately!
+02/18/2021 12:57:36 AM бот запустился
+02/18/2021 12:57:36 AM Scheduler started
+02/18/2021 12:57:39 AM No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\Mark\AppData\Roaming\Python\Python38\site-packages\telegram\ext\dispatcher.py", line 442, in process_update
+    handler.handle_update(update, self, check, context)
+  File "C:\Users\Mark\AppData\Roaming\Python\Python38\site-packages\telegram\ext\handler.py", line 160, in handle_update
+    return self.callback(update, context)
+  File "c:/projects/lesson2/HomeWork/TelegramBot/bot.py", line 37, in answer_constellation
+    if user_planet.split()[1] == 'Mercury':
+IndexError: list index out of range
+02/18/2021 12:57:57 AM Received signal 2 (SIGINT), stopping...
+02/18/2021 12:57:57 AM Scheduler has been shut down
+02/18/2021 12:57:57 AM Exiting immediately!
+02/18/2021 01:00:08 AM бот запустился
+02/18/2021 01:00:08 AM Scheduler started
+02/18/2021 01:00:20 AM Received signal 2 (SIGINT), stopping...
+02/18/2021 01:00:20 AM Scheduler has been shut down
+02/18/2021 01:00:20 AM Exiting immediately!
+02/18/2021 01:01:01 AM бот запустился
+02/18/2021 01:01:01 AM Scheduler started
+02/18/2021 01:09:01 AM Received signal 2 (SIGINT), stopping...
+02/18/2021 01:09:01 AM Scheduler has been shut down
+02/18/2021 01:09:01 AM Exiting immediately!
+02/18/2021 01:18:34 AM бот запустился
+02/18/2021 01:18:34 AM Scheduler started
+02/18/2021 01:19:00 AM No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\Mark\AppData\Roaming\Python\Python38\site-packages\telegram\ext\dispatcher.py", line 442, in process_update
+    handler.handle_update(update, self, check, context)
+  File "C:\Users\Mark\AppData\Roaming\Python\Python38\site-packages\telegram\ext\handler.py", line 160, in handle_update
+    return self.callback(update, context)
+  File "c:/projects/lesson2/HomeWork/TelegramBot/bot.py", line 34, in answer_constellation
+    user_planet = update.message.text.split()[1]
+IndexError: list index out of range
+02/18/2021 01:20:06 AM Received signal 2 (SIGINT), stopping...
+02/18/2021 01:20:06 AM Scheduler has been shut down
+02/18/2021 01:20:16 AM Exiting immediately!
+02/18/2021 01:20:30 AM бот запустился
+02/18/2021 01:20:30 AM Scheduler started
+02/18/2021 01:26:23 AM Received signal 2 (SIGINT), stopping...
+02/18/2021 01:26:23 AM Scheduler has been shut down
+02/18/2021 01:28:22 AM бот запустился
+02/18/2021 01:28:22 AM Scheduler started
+02/18/2021 01:29:58 AM Received signal 2 (SIGINT), stopping...
+02/18/2021 01:29:58 AM Scheduler has been shut down
+02/18/2021 01:30:00 AM Exiting immediately!
